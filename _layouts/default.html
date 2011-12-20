@@ -12,17 +12,12 @@
     <div class="topbar">
       <div class="fill">
         <div class="container">
-          <a class="brand" href="#">Project name</a>
+          <a class="brand" href="#">Carter Rabasa</a>
           <ul class="nav">
-            <li class="active"><a href="#">Home</a></li>
+            <li class="active"><a href="/">Home</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
           </ul>
-          <form action="" class="pull-right">
-            <input class="input-small" type="text" placeholder="Username">
-            <input class="input-small" type="password" placeholder="Password">
-            <button class="btn" type="submit">Sign in</button>
-          </form>
         </div>
       </div>
     </div>
@@ -31,15 +26,19 @@
 
       <div class="content">
         <div class="page-header">
-          <h1>Page name <small>Supporting text or tagline</small></h1>
+          <h1>Hmmmmm <small>Supporting text or tagline</small></h1>
         </div>
         <div class="row">
           <div class="span10">
-            <h2>Main content</h2>
             {{ content }}
           </div>
           <div class="span4">
-            <h3>Secondary content</h3>
+            <h3>Archive</h3>
+            <ul class="posts">
+              {% for post in site.posts %}
+              <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+              {% endfor %}
+            </ul>
           </div>
         </div>
       </div>
