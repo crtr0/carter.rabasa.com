@@ -1,12 +1,52 @@
 <!DOCTYPE html>
-
-<html>
-
+<html lang="en">
   <head>
+    <meta charset="utf-8">
     <title>Carter's Blog - {{ page.title }}</title>
-    <link href="/css/style.css" media="screen" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="http://twitter.github.com/bootstrap/1.4.0/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/default.css">
+    <meta name="description" content="">
+    <meta name="author" content="Carter Rabasa">
   </head>
   <body>
-  {{ content }}
+    <div class="topbar">
+      <div class="fill">
+        <div class="container">
+          <a class="brand" href="#">Project name</a>
+          <ul class="nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+          <form action="" class="pull-right">
+            <input class="input-small" type="text" placeholder="Username">
+            <input class="input-small" type="password" placeholder="Password">
+            <button class="btn" type="submit">Sign in</button>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <div class="content">
+        <div class="page-header">
+          <h1>Page name <small>Supporting text or tagline</small></h1>
+        </div>
+        <div class="row">
+          <div class="span10">
+            <h2>Main content</h2>
+            {{ content }}
+          </div>
+          <div class="span4">
+            <h3>Secondary content</h3>
+          </div>
+        </div>
+      </div>
+
+      <footer>
+        <p>&copy; Carter Rabasa 2010-2011</p>
+      </footer>
+    </div> <!-- /container -->
   </body>
 </html>
