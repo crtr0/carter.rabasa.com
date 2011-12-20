@@ -1,5 +1,6 @@
 ---
+layout: default
 title: Carter's Blog
 ---
 
-Foo
+Hello World
