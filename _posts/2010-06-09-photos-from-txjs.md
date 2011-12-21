@@ -6,7 +6,7 @@ title: Photos from TXJS
 {{ page.title }}
 ================
 
-I uploaded <a href="http://www.flickr.com/photos/cubanlinks/sets/72157624110992361/">some pictures</a> from my trip to Austin for <a href="http://texasjavascript.com/">TXJS</a>.  Thanks to Rebecca and the rest of the <a href="http://yayquery.com/">yayQuery </a>team for an awesome event!
+I uploaded [some pictures](http://www.flickr.com/photos/cubanlinks/sets/72157624110992361/) from my trip to Austin for [TXJS](http://texasjavascript.com/).  Thanks to Rebecca and the rest of the [yayQuery](http://yayquery.com/) team for an awesome event!
 
 <a title="John Resig by crabasa, on Flickr" href="http://www.flickr.com/photos/cubanlinks/4684351212/"><img title="John Resig discussing JQuery on mobile" src="http://farm5.static.flickr.com/4028/4684351212_dc0e7aed35.jpg" alt="John Resig" width="500" height="375" /></a>
 
