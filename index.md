@@ -2,33 +2,4 @@
 layout: default
 title: Home
 ---
-
-<script src="http://widgets.twimg.com/j/2/widget.js"></script>
-<span></span>
-<script>
-new TWTR.Widget({
-  version: 2,
-  type: 'profile',
-  rpp: 6,
-  interval: 30000,
-  width: 'auto',
-  height: 500,
-  theme: {
-    shell: {
-      background: '#333333',
-      color: '#9cc8e6'
-    },
-    tweets: {
-      background: '#e3e0e3',
-      color: '#333333',
-      links: '#3354e8'
-    }
-  },
-  features: {
-    scrollbar: false,
-    loop: false,
-    live: false,
-    behavior: 'all'
-  }
-}).render().setUser('CarterRabasa').start();
-</script>
+<a href="http://www.flickr.com/photos/cubanlinks/5339186861/" title="WP_000027 by crabasa, on Flickr"><img src="http://farm6.staticflickr.com/5090/5339186861_fd3d1d7bbc_z.jpg" width="480" height="640" alt="WP_000027"></a>
