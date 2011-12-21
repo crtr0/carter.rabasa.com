@@ -48,3 +48,7 @@ body {
   border: 0;
 }
 
+.post {
+  overflow: hidden;
+}
+
