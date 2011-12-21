@@ -1,3 +1,15 @@
+meta:
+  site_title: "Carter Rabasa"
+  site_subtitle: ""
+  site_language: "en"
+  absolute_baseurl: http://carter.rabasa.com
+  domain: carter.rabasa.com
+  author:
+    full_name: Carter Michael Rabasa
+    short_name: crabasa
+    email: carter@rabasa.com
+
+tag_dir: tag
 pygments: true
 markdown: rdiscount
 permalink: pretty

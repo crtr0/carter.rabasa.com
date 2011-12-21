@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Props for the IE Test Drive
+tags: [ie, microsoft, html5, interop]
 ---
 
 {{ page.title }}
