@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 614
+layout: post
+title: Rails 1.0
+date: "2005-12-13T21:06:00+00:00"
+tags: 
+- Uncategorized
+- rails
+- ruby
+wordpress_slug: rails-1-0
+wordpress_url: http://cubanlinks.org/2006/11/30/rails-1-0
+---
+&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/rails-1-0](http://cubanlinks.org/2006/11/30/rails-1-0) &laquo;
+
+<p><a href="http://www.rubyonrails.org">Ruby on Rails</a> is <a href="http://37signals.com/svn/archives2/ruby_on_rails_10_is_live_with_a_new_site_too.php">1.0</a> spread the word.</p>

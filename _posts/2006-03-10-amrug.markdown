@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 635
+layout: post
+title: AMRUG
+date: "2006-03-10T21:34:00+00:00"
+tags: 
+- Uncategorized
+- rails
+- ruby
+- amrug
+wordpress_slug: amrug
+wordpress_url: http://cubanlinks.org/2006/11/30/amrug
+---
+&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/amrug](http://cubanlinks.org/2006/11/30/amrug) &laquo;
+
+<p>This stands for the <a href="http://www.ccurisa.org/?q=node/62">Adams Morgan Ruby Users Group</a>.  I&#8217;ve been asked to stop by their next meeting this Sunday at 3pm and spend 10 minutes talking about my experiences building RoR apps for     DCKickball.  Should be interesting.  I&#8217;ve never been much into the &#8220;user group&#8221; scene, which is odd because I consider myself to be a pretty social person.</p>

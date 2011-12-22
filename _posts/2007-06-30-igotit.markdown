@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 1302
+layout: post
+title: iGotIt
+date: "2007-06-30T15:51:00+00:00"
+tags: 
+- Uncategorized
+wordpress_slug: igotit
+wordpress_url: http://cubanlinks.org/2007/06/30/igotit
+---
+&raquo; Cross-posted from [http://cubanlinks.org/2007/06/30/igotit](http://cubanlinks.org/2007/06/30/igotit) &laquo;
+
+<p><img src="http://cubanlinks.org/assets/2007/6/30/Photo_6.jpg" alt="" /></p>
