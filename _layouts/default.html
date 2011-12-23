@@ -26,20 +26,16 @@
 
       <div class="content">
         <div class="page-header">
-        This is my small nook where I fully nerd-out and explore any new
-        technologies, services or devices that catch my fancy.  Cheers! 
+        <h1><small>This is tech nook.  There are many like it, but this is is mine.</small></h1>
         </div>
         <div class="row">
           <div class="span10">
             {{ content }}
           </div>
           <div class="span4">
-            <h3>Archive</h3>
-            <ul class="posts">
-              {% for post in site.posts %}
-              <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-              {% endfor %}
-            </ul>
+            <h3>About Me</h3>
+            <img src="/images/carter.png" width="200" height="200" />
+            <p>Fill this in...</p>
           </div>
         </div>
       </div>
