@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 229
+layout: post
+title: Bad Times
+date: "2004-04-26T17:31:46+00:00"
+tags: 
+- Uncategorized
+wordpress_slug: bad-times
+wordpress_url: http://cubanlinks.org/2006/11/30/bad-times
+---
+&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/bad-times](http://cubanlinks.org/2006/11/30/bad-times) &laquo;
+
+<p>My email is currently down.  The problems I was having on my Linux box have not gone away, and as a result I&#8217;ve had to shut down my mail server.  My friend Mark (who is hosting my box) is looking into it, but things don&#8217;t look good.  Looks like it&#8217;s been hacked in to.
+<br/><br/>
+So, my naive view of the world on-line has been shattered.  Spam, viruses, trojan horses, and hacking-in-general have been introduced into my life in a harsh way.  Long term this is a valuable lesson to learn.  At the moment it couldn&#8217;t come at a worse time.</p>

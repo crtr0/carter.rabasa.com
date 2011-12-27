@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 444
+layout: post
+title: Bleh
+date: "2005-02-09T14:54:24+00:00"
+tags: 
+- Uncategorized
+wordpress_slug: bleh
+wordpress_url: http://cubanlinks.org/2006/11/30/bleh
+---
+&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/bleh](http://cubanlinks.org/2006/11/30/bleh) &laquo;
+
+<p>In case you couldn&#8217;t tell, I&#8217;m having server problems.  Well, more accurately I&#8217;m having <a href="http://jakarta.apache.org/tomcat/index.html">Tomcat</a> problems.  Damn thing keeps dying on me.  All my other services (Wiki, Email, <span class="caps">PHP</span>, etc) seem to be working fine.</p>
+<p>In truth, I think this box is fubar&#8217;d.  Which means a weekend of fun re-installing software, and possibly swapping out some hardware (memory, hard drives, etc).  Anyway, if you notice any problems with this site, please shoot me an email (carter.rabasa <em>at</em> gmail.com).</p>

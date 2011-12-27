@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 150
+layout: post
+title: Lame
+date: "2004-07-19T14:01:36+00:00"
+tags: 
+- Uncategorized
+wordpress_slug: lame
+wordpress_url: http://cubanlinks.org/2006/11/30/lame
+---
+&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/lame](http://cubanlinks.org/2006/11/30/lame) &laquo;
+
+<p>Flickr seems to be blocking my blog&#8217;s image requests, resulting in the broken images you see to your left.  This blows.  I&#8217;ll try to rectify this tonight.</p><br/><p><i>Update</i>: Ok, I figured out the problem.  Flickr used to pass the <span class="caps">URL</span> to the full-sized image in its <span class="caps">RSS</span> feed, which I would then parse and use to build the <span class="caps">URL</span> for the thumbnail.  Now, they&#8217;ve changed the feed to pass the thumbnail <span class="caps">URL</span>, so the <span class="caps">URL</span> that my code creates is invalid.  I&#8217;ve fixed the problem and will update the site tonight.</p>
