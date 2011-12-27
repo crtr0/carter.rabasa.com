@@ -52,3 +52,7 @@ body {
   overflow: hidden;
 }
 
+.ddMMMyyyy {
+  font-family: Monaco, "Courier New", monospace;
+}
+
