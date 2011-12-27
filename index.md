@@ -10,3 +10,4 @@ title: Home
 <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
+<p><a href="/archive">Full archive</a></p>
