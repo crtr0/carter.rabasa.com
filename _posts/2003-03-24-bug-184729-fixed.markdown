@@ -1,0 +1,27 @@
+--- 
+wordpress_id: 534
+layout: post
+title: "Bug #184729 Fixed"
+date: "2003-03-24T23:38:19+00:00"
+tags: 
+- Uncategorized
+wordpress_slug: bug-184729-fixed
+wordpress_url: http://cubanlinks.org/2006/11/30/bug-184729-fixed
+---
+&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/bug-184729-fixed](http://cubanlinks.org/2006/11/30/bug-184729-fixed) &laquo;
+
+<p>I sent my friend Sarah a perma-link to a post I wrote about the war.  It was easier than explaining how I felt over IM.  Much to my dismay, she told me she got an error page when she clicked on the link.  After some investigation, I discovered I was improperly <a href="http://java.sun.com/j2se/1.4.1/docs/api/java/text/SimpleDateFormat.html" title="SimpleDateFormat object in Java">formatting the date</a>.
+<br/><br/>
+This:<br/><br/>
+<code>
+private final SimpleDateFormat datetime =
+    new SimpleDateFormat("M/d/yyyy hh:mm");
+</code>
+<br/><br/>
+... became this:<br/><br/>
+<code>
+private final SimpleDateFormat datetime =
+    new SimpleDateFormat("M/d/yyyy HH:mm");
+</code>
+<br/><br/>
+Notice the uppercase H&#8217;s in the bottom.  Lower case mean the hour is treated as 0-12.  Uppercase means the hour is treated as 0-23. God, I hate those type of bugs.</p>
