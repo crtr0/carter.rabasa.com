@@ -56,8 +56,8 @@ body {
   font-family: Monaco, "Courier New", monospace;
 }
 
-.pin-title { height: 20px; }
-.pin-title:before { content: "&rarr;" }
+.pin-item { height: 20px; }
+.pin-title:before { content: "⇾ " }
 .pin-description { display:none }
 .pin-tag { display:none }
 
