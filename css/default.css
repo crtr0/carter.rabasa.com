@@ -56,3 +56,8 @@ body {
   font-family: Monaco, "Courier New", monospace;
 }
 
+.pin-title { font-size:1em;text-decoration:none;color:#00a}
+.pin-description { color:#555; }
+.pin-tag { color:#18c;text-decoration:none;font-size:0.9em; }
+
+
