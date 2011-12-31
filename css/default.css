@@ -36,6 +36,7 @@ body {
 .content .span10,
 .content .span4 {
   min-height: 500px;
+  overflow: hidden;
 }
 /* Give a quick and non-cross-browser friendly divider */
 .content .span4 {
@@ -56,7 +57,7 @@ body {
   font-family: Monaco, "Courier New", monospace;
 }
 
-.pin-item { height: 20px; }
+.pin-item {  }
 .pin-title:before { content: "⇾ " }
 .pin-description { display:none }
 .pin-tag { display:none }
