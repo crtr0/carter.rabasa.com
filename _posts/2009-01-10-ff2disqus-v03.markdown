@@ -18,7 +18,7 @@ Now that v0.3 of FF2Disqus is in private-beta, I thought I'd put up a page to an
 
 FF2Disqus provides users the ability to ping a URL to initiate a sync.  We automatically run syncs once an hour, but some people aren't that patient. :) The format of the response is <a href="http://www.json.org/">JSON</a>.  The response object has the following attributes:
 <ul>
-	<li>success: true or false</li>
-	<li>errorCode (optional): is success is false, this provides a short code explanation (invalid-user/time-out/unknown-error)</li>
-	<li>message: if success is true this is an array of comments that were synced, else a longer explanation of the error</li>
+<li>success: true or false</li>
+<li>errorCode (optional): is success is false, this provides a short code explanation (invalid-user/time-out/unknown-error)</li>
+<li>message: if success is true this is an array of comments that were synced, else a longer explanation of the error</li>
 </ul>

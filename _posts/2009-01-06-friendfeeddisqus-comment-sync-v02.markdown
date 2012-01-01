@@ -14,8 +14,8 @@ wordpress_url: http://cubanlinks.org/blog/?p=2341
 
 Please see my <a href="http://cubanlinks.org/blog/2009/01/04/friendfeeddisqus-comment-sync-v01/">previous post</a> for a run-down on how this tool works.  So, what's new?  Well, alot:
 <ul>
-	<li>This is a hosted/automated solution (<a href="https://ff2disqus.appspot.com/">https://ff2disqus.appspot.com</a>)</li>
-	<li>Comments are synced <strong>every hour </strong>and all actions are logged</li>
-	<li>Users can discontinue syncing at any time</li>
+<li>This is a hosted/automated solution (<a href="https://ff2disqus.appspot.com/">https://ff2disqus.appspot.com</a>)</li>
+<li>Comments are synced <strong>every hour </strong>and all actions are logged</li>
+<li>Users can discontinue syncing at any time</li>
 </ul>
 Well, I hope (some of) you like this!  Just another <a href="https://twitter2ff.appspot.com">scotch-tape web application</a> that was a product of too much free time!

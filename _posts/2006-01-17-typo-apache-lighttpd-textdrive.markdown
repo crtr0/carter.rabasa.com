@@ -21,4 +21,4 @@ wordpress_url: http://cubanlinks.org/2006/11/30/typo-apache-lighttpd-textdrive
 <li><b>Apache:</b> <a href="http://manuals.textdrive.com/read/chapter/62">Set-up the Apache alias/redirect</a>. However, for the local <span class="caps">URL</span>, specify <code>/blog</code>. For the remote <span class="caps">URL</span>, specify <code>http://yourdomain.name:PORT#/blog/</code>.</li>
 </ol>
 
-	<p>Once you bounce Apache (by saving your changes) and start-up Lighttpd, you should be good to go. Here are some more <a href="http://weblog.0x7b.com/articles/2005/09/17/lighttpd-setup-on-textdrive-com-part-ii">steps you can take</a> to finalize your set-up.  Let me know if I&#8217;m missing anything.</p>
+<p>Once you bounce Apache (by saving your changes) and start-up Lighttpd, you should be good to go. Here are some more <a href="http://weblog.0x7b.com/articles/2005/09/17/lighttpd-setup-on-textdrive-com-part-ii">steps you can take</a> to finalize your set-up.  Let me know if I&#8217;m missing anything.</p>

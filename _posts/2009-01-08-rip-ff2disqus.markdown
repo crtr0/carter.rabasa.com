@@ -26,7 +26,7 @@ The problem was when I executed Disqus API calls on my computer the results were
 
 <span style="text-decoration: underline;">Updates</span>
 <ul>
-	<li>Looks like to might be Google's fault <a href="http://groups.google.com/group/google-appengine/browse_thread/thread/dc539459dec9968c/10b849952966f28f?lnk=gst&amp;q=urlfetch+cache#10b849952966f28f">(link #1)</a> <a href="http://groups.google.com/group/google-appengine/browse_thread/thread/ae52ac9100d8f18c/e91fa4c69848d9a7?lnk=gst&amp;q=urlfetch+cache#e91fa4c69848d9a7">(link #2)</a></li>
-	<li>Ryan Williams points me to a <a href="http://code.google.com/p/googleappengine/issues/detail?id=739&amp;can=1&amp;q=urlfetch&amp;colspec=ID%20Type%20Status%20Priority%20Stars%20Owner%20Summary%20Log%20Component#c5">work-around</a></li>
-	<li>And... we're back! But super-limited beta.</li>
+<li>Looks like to might be Google's fault <a href="http://groups.google.com/group/google-appengine/browse_thread/thread/dc539459dec9968c/10b849952966f28f?lnk=gst&amp;q=urlfetch+cache#10b849952966f28f">(link #1)</a> <a href="http://groups.google.com/group/google-appengine/browse_thread/thread/ae52ac9100d8f18c/e91fa4c69848d9a7?lnk=gst&amp;q=urlfetch+cache#e91fa4c69848d9a7">(link #2)</a></li>
+<li>Ryan Williams points me to a <a href="http://code.google.com/p/googleappengine/issues/detail?id=739&amp;can=1&amp;q=urlfetch&amp;colspec=ID%20Type%20Status%20Priority%20Stars%20Owner%20Summary%20Log%20Component#c5">work-around</a></li>
+<li>And... we're back! But super-limited beta.</li>
 </ul>

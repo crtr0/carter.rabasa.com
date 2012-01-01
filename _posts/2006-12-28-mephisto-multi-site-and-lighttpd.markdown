@@ -17,10 +17,10 @@ wordpress_url: http://cubanlinks.org/2006/12/28/mephisto-multi-site-and-lighttpd
 <p>After playing around with Lighttpd&#8217;s rewrite abilities, I think I have a set-up that enables Mephisto caching goodness.  The following is how I have chosen to configure Mephisto, so your mileage may vary:</p>
 
 
-	<p>1) Install Mephisto in your home directory (MEPHISTO_HOME).</p>
+<p>1) Install Mephisto in your home directory (MEPHISTO_HOME).</p>
 
 
-	<p>2) For each domain you want to set-up, use a config like this:</p>
+<p>2) For each domain you want to set-up, use a config like this:</p>
 
 
 <pre><code>$HTTP["host"] =~ "foo.com" {
@@ -37,10 +37,10 @@ wordpress_url: http://cubanlinks.org/2006/12/28/mephisto-multi-site-and-lighttpd
    )
 }</code></pre>
 
-	<p>3) In the docroot for foo.com (~/domains/foo.com/web/public, etc) create a symlink to your mephisto public folder:</p>
+<p>3) In the docroot for foo.com (~/domains/foo.com/web/public, etc) create a symlink to your mephisto public folder:</p>
 
 
-	<p>cd ~/domains/foo.com/web/public; ln -s ~/mephisto/public mephisto</p>
+<p>cd ~/domains/foo.com/web/public; ln -s ~/mephisto/public mephisto</p>
 
 
-	<p>That&#8217;s it! I hope I&#8217;m not forgetting anything. Feedback would be appreciated.</p>
+<p>That&#8217;s it! I hope I&#8217;m not forgetting anything. Feedback would be appreciated.</p>

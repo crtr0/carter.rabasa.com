@@ -26,12 +26,12 @@ wordpress_url: http://cubanlinks.org/2006/11/30/ruby-on-rails-paypal-ipn-code-ex
        @request.params.each_pair {|key, value| @query = @query + &#8217;&amp;&#8217; + key + &#8217;=&#8217;
  + value.first if key != &#8216;register/pay_pal_ipn.html/pay_pal_ipn&#8217; }
 
-	<ol>
-	<li><span class="caps">POST</span> this data
+<ol>
+<li><span class="caps">POST</span> this data
        http = Net::HTTP.start(PAYPAL_URL, 80)
        response = http.post(&#8217;/cgi-bin/webscr&#8217;, @query)
        http.finish</li>
-	</ol>
+</ol>
 
 
 # PayPal values
@@ -60,4 +60,4 @@ wordpress_url: http://cubanlinks.org/2006/11/30/ruby-on-rails-paypal-ipn-code-ex
   end
 </textarea>
 
-	<p>This method exists inside of a controller class.  I&#8217;m certainly not saying that this is the best or most elegant way to handle this, just that I couldn&#8217;t find any examples to rip-off myself.  :)<br/><br/>Let me know if you have any suggestions. <span class="caps">WARNING</span>: this code does not communicate with PayPal&#8217;s servers over <span class="caps">SSL</span>.</p>
+<p>This method exists inside of a controller class.  I&#8217;m certainly not saying that this is the best or most elegant way to handle this, just that I couldn&#8217;t find any examples to rip-off myself.  :)<br/><br/>Let me know if you have any suggestions. <span class="caps">WARNING</span>: this code does not communicate with PayPal&#8217;s servers over <span class="caps">SSL</span>.</p>

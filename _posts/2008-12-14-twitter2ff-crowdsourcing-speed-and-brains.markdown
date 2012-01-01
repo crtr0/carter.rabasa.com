@@ -17,13 +17,13 @@ There are two glaring problems with <a href="https://twitter2ff.appspot.com">Twi
 
 So, I implemented some simple <a href="http://code.google.com/appengine/docs/datastore">Datastore</a> routines to cache some data.  <strong>Nothing personally identifying</strong>, just information I use when rendering results (like usernames, profile photo urls, etc). Here are the class definitions:
 
-	class TwitterUser(db.Model):
+class TwitterUser(db.Model):
   		username = db.StringProperty(required=True)
   		name = db.StringProperty()
   		image_url = db.StringProperty()
   		date = db.DateTimeProperty(auto_now_add=True)
 
-	class FFUser(db.Model):
+class FFUser(db.Model):
   		nickname = db.StringProperty(required=True)
   		name = db.StringProperty()
   		twitter_user = db.ReferenceProperty(TwitterUser)
