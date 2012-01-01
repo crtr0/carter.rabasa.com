@@ -38,6 +38,9 @@ body {
   min-height: 500px;
   overflow: hidden;
 }
+
+.content .span10 { margin-left: 10px; margin-right:10px }
+
 /* Give a quick and non-cross-browser friendly divider */
 .content .span4 {
   margin-left: 0;
