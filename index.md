@@ -3,8 +3,9 @@ layout: default
 title: Home
 ---
 <div id="post">
-<h1><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h1>
-{{ content }}
+{% assign x = site.posts.first %}
+<h1><a href="{{ x.url }}">{{ x.title }}</a></h1>
+{{ x.content }}
 </div>
 <h2>More Posts</h2>
 <ul class="posts">
