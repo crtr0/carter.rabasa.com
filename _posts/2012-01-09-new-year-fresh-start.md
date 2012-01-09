@@ -11,20 +11,21 @@ Speaking of Resolutions...
 --------------------------
 The new year brought us an amazing meme: "[Learn to code in 2012][3]"! This was largely kicked-off by the launch of [CodeYear][] by the YC startup [CodeCademy][]. You'll notice in all the press peices that even the mayor of New York (Micael Bloomberg) has commited to learning to code. The first of a weekly series of interactive programming challenges just went out today.  
 
-![Codecademy snippet](/images/2012-01-09-codecademy.png)
+![Codecademy snippet](/images/2012-01-09-codecademy.png "CodeCademy tutorial")
 
 Not too long ago I had an interesting chat with [Danielle Morrill][4] about how more people should learn to program.  What was interesting about the conversation was that "programming" is often scoped too narrowly.  Danielle is a self-taught programmer who started-out glueing systems together with epic Excel macros. Programming is more of a state of mind, a willingness to exert control over the controllable elements of one's environment.
 
-![Gmail filter](/images/2012-01-09-gmail-filter.png)
+![Gmail filter](/images/2012-01-09-gmail-filter.png "Gmail filter")
 
 It could be as simple as programming your VCR (wow, I'm old) or creating some useful filters/labels in GMail. It could be hacking your finances with tools like [Mint][] or creating forcing functions for your body by signing-up for a 10k in the Spring. Think of all of the social media accounts you use and ask yourself if a tool like [ifttt][] could help you automate some things that you do normally do manually?
 
-Anyway, I am feeling exceedingly optimistic today.  Maybe it's the fading buzz of the New Year.  I'm starting a new job a week from tomorrow that I'm very excited about.  Don't have much to say about it now, but suffice it to say that it will involve getting more and more people excited and comfortable with programming.  And given my lay-off from hard-core coding, that starts with me!
+Anyway, I am feeling exceedingly optimistic today.  Maybe it's the fading buzz of the New Year.  Or perhaps it's because I'm starting a new job a week from tomorrow that I'm very excited about.  Don't have much to say about it now, but suffice it to say that it will involve getting more and more people excited and comfortable with programming.  And given my lay-off from hard-core coding, that starts [with me][5]!
 
 [1]: http://cubanlinks.org	
 [2]: http://windowsteamblog.com/members/crabasa/
 [3]: https://www.google.com/search?sourceid=chrome&ie=UTF-8&q=learn+to+code+2012
 [4]: http://www.daniellemorrill.com
+[5]: http://github.com/crabasa
 [twitter]: http://twitter.com/carterrabasa
 [stackoverflow]: http://stackoverflow.com/users/476286/carter-rabasa
 [hacker news]: http://news.ycombinator.com/user?id=crabasa
@@ -32,5 +33,6 @@ Anyway, I am feeling exceedingly optimistic today.  Maybe it's the fading buzz o
 [ifttt]: http://ifttt.com/wtf	
 [codecademy]: http://codecademy.com
 [codeyear]: http://codeyear.com
+[mint]: http://mint.com
 
 
