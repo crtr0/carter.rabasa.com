@@ -5,6 +5,19 @@ html, body {
 body {
   padding-top: 40px; /* 40px to make the container go all the way to the bottom of the topbar */
 }
+
+/* define how figures are rendered */
+figure {
+    display: table;
+    width: 1px;
+    border: 1px solid #bbb;
+    padding: 3px;
+}
+
+img, figcaption {
+    display: table-row;
+}
+
 .container > footer p {
   text-align: center; /* center align it with the container */
 }
