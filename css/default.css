@@ -17,10 +17,10 @@ figure {
 
 figure figcaption {
     display: block;
-    border: 1px solid #bbb;
+    border-top: 1px solid #bbb;
     text-align:center; 
     color: #333; 
-    padding:2px
+    padding-top:2px
 }
 
 figure img {
