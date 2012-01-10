@@ -10,16 +10,19 @@ body {
 figure {
     display: table;
     width: 1px;
-    border: 1px solid #bbb;
     padding: 3px;
     margin-left:0;
 }
 
-img, figcaption {
+figure, figure img, figure figcaption {
+    border: 1px solid #bbb;
+}
+
+figure img, figcaption {
     display: table-row;
 }
 
-figcaption { text-align:center; color: #333; border-top: 1px solid #bbb; padding:2px }
+figcaption { text-align:center; color: #333; padding:2px }
 
 .container > footer p {
   text-align: center; /* center align it with the container */
