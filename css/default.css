@@ -12,17 +12,20 @@ figure {
     width: 1px;
     padding: 3px;
     margin-left:0;
-}
-
-figure, figure img, figure figcaption {
     border: 1px solid #bbb;
 }
 
-figure img, figcaption {
-    display: table-row;
+figure figcaption {
+    display: block;
+    border: 1px solid #bbb;
+    text-align:center; 
+    color: #333; 
+    padding:2px
 }
 
-figcaption { text-align:center; color: #333; padding:2px }
+figure img {
+    display: table-row;
+}
 
 .container > footer p {
   text-align: center; /* center align it with the container */
