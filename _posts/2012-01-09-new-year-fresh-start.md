@@ -11,11 +11,18 @@ Speaking of Resolutions...
 --------------------------
 The new year brought us an amazing meme: "[Learn to code in 2012][3]"! This was largely kicked-off by the launch of [CodeYear][] by the YC startup [CodeCademy][]. You'll notice in all the press peices that even the mayor of New York (Micael Bloomberg) has commited to learning to code. The first of a weekly series of interactive programming challenges just went out today.  
 
-![Codecademy snippet](/images/2012-01-09-codecademy.png "CodeCademy tutorial")
+
+<figure>
+  <img src="/images/2012-01-09-codecademy.png" alt="CodeCademy tutorial" height="209" width="550"/>
+  <figcaption>The first Codecademy tutorial</figcaption>
+</figure>
 
 Not too long ago I had an interesting chat with [Danielle Morrill][4] about how more people should learn to program.  What was interesting about the conversation was that "programming" is often scoped too narrowly.  Danielle is a self-taught programmer who started-out glueing systems together with epic Excel macros. Programming is more of a state of mind, a willingness to exert control over the controllable elements of one's environment.
 
-![Gmail filter](/images/2012-01-09-gmail-filter.png "Gmail filter")
+<figure>
+  <img src="/images/2012-01-09-gmail-filter.png" alt="Gmail filter" height="354" width="331"/>
+  <figcaption>An example Gmail filter</figcaption>
+</figure>
 
 It could be as simple as programming your VCR (wow, I'm old) or creating some useful filters/labels in GMail. It could be hacking your finances with tools like [Mint][] or creating forcing functions for your body by signing-up for a 10k in the Spring. Think of all of the social media accounts you use and ask yourself if a tool like [ifttt][] could help you automate some things that you do normally do manually?
 
