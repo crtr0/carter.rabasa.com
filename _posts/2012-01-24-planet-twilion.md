@@ -7,7 +7,7 @@ date: 2012-01-25T15:23:47.0
 ---
 
 <figure>
-  <img src="https://lh3.googleusercontent.com/-1ba88AyW61k/Tx8jFMtzRNI/AAAAAAAABak/2hvXaH-hx7Y/s400/Carter%252527s%252520WP7_000147.jpg" alt="Twilio offices at night" height="400" width="400"/>
+  <img src="https://lh3.googleusercontent.com/-1ba88AyW61k/Tx8jFMtzRNI/AAAAAAAABak/2hvXaH-hx7Y/s400/Carter%252527s%252520WP7_000147.jpg" alt="Twilio offices at night" height="300" width="400"/>
   <figcaption>Twilio offices at night</figcaption>
 </figure>
 
@@ -18,14 +18,14 @@ But I'm getting ahead of myself.  Last week was *amazing*! I flew down to San Fr
 After some comical escapades that involved getting locked into stairwells and "visiting" Twilio's other neighbors in the building, I finally was routed to our new office space on the 1st floor, where I caught the tail-end of the all-hands.  Just in time for Jeff to pull me in front of the company and force everyone to chant my name until it was tatooed on their cerebral cortex.
 
 <figure>
-  <img src="https://lh6.googleusercontent.com/-U9JmDkhd6wU/Tx8jBHdOpeI/AAAAAAAABa4/aYAFu4Ft3kY/s400/Carter%252527s%252520WP7_000128.jpg" alt="White House CTO - Aneesh Chopra" height="400" width="400"/>
+  <img src="https://lh6.googleusercontent.com/-U9JmDkhd6wU/Tx8jBHdOpeI/AAAAAAAABa4/aYAFu4Ft3kY/s400/Carter%252527s%252520WP7_000128.jpg" alt="White House CTO - Aneesh Chopra" height="300" width="400"/>
   <figcaption>White House CTO - Aneesh Chopra</figcaption>
 </figure>
 
 The rest of the week was pretty typical, I hear: the [White House CTO][] dropped-in on Tuesday. Catered dinner of fried chicken and waffles on Wednesday. Epic Holiday party and karaoke bash on Thursday. I don't think there are many companies where I would feel totally comfortable belting-out "Paraside City" on my 3rd day, but Twilio is one of them.
 
 <figure>
-  <img src="https://lh5.googleusercontent.com/-84CW1HQKQBs/Tx8jF3FKfzI/AAAAAAAABa0/D77NFn8vuA0/s400/Carter%252527s%252520WP7_000149.jpg" alt="I'm a DOER" height="400" width="400"/>
+  <img src="https://lh5.googleusercontent.com/-84CW1HQKQBs/Tx8jF3FKfzI/AAAAAAAABa0/D77NFn8vuA0/s400/Carter%252527s%252520WP7_000149.jpg" alt="I'm a DOER" height="300" width="400"/>
   <figcaption>Are you a DOER?</figcaption>
 </figure>
  
