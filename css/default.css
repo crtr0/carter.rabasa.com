@@ -79,6 +79,11 @@ figure img {
   overflow: hidden;
 }
 
+.tags {
+  color:#aaa;
+  margin-bottom:5px;
+}
+
 .ddMMMyyyy {
   font-family: Monaco, "Courier New", monospace;
 }
