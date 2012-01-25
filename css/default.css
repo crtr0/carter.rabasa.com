@@ -25,7 +25,7 @@ figure figcaption {
 }
 
 figure img {
-    display: table-row;
+    /*display: table-row;*/
 }
 
 .container > footer p {
