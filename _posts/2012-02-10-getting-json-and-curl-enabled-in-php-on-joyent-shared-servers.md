@@ -9,7 +9,7 @@ After starting at Twilio, I wanted to get a bunch of development environments se
 
 In order to get cracking with the PHP helper library, I needed to get some dependencies working on my shared host, specifically JSON and Curl. The Curl module is neccessary to make the HTTP calls to the Twilio REST API.  The JSON module allows us to deserialize the JSON data we get back from the API.  These modules are not enabled by default, but it's super easy to flip them on.
 
-First, SSH to your host and go into the directory for the domain you'd like to edit. Go ahead an open up the PHP5 configuration file:
+First, SSH to your host and go into the directory for the domain you'd like to edit. Go ahead and open up the PHP5 configuration file:
 
 	[platt:~/domains/rabasa.com] crabasa$ vi etc/php5/php.ini
 
