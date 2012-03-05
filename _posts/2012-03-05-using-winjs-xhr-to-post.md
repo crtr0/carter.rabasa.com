@@ -9,17 +9,17 @@ In the process of building a [Windows 8][] [Twilio][] app, I ran head first into
 
 Using WinJS.xhr in general is quite nice.  It abstracts away all the nonesense of [XMLHttpRequest][] and provides a simple interface that uses [Promises][] to handle the asynchronous responses.  Here's a simple example that uses the Twilio REST API to retrieve a list of SMS messages from a user's account:
 
-        WinJS.xhr({
-            user: accountSid, password: authKey, 
-            url: "https://api.twilio.com/2010-04-01/Accounts/" + accountSid + "/SMS/Messages.json"
-        }).then(
-            function (success) {
-                console.log(JSON.parse(request.responseText));
-            },
-            function (error) {
-                console.log(JSON.parse(request.responseText));
-            }
-        );
+	WinJS.xhr({
+	  user: accountSid, password: authKey, 
+	  url: "https://api.twilio.com/2010-04-01/Accounts/" + accountSid + "/SMS/Messages.json"
+	}).then(
+	  function (success) {
+	    console.log(JSON.parse(request.responseText));
+	  },
+	  function (error) {
+	    console.log(JSON.parse(request.responseText));
+	  }
+	);
 
 Obviously, the example would be much shorter if I wasn't using HTTP BASIC auth and had defined some named functions for the callback.  But hey, pretty simple!  Anyway, what if you want to do a POST?  We'll here's what *won't* work:
 
