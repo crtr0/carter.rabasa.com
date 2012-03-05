@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<div id="post">
+<div id="post" class="markdown-body">
 {% assign x = site.posts.first %}
 <h1><a href="{{ x.url }}">{{ x.title }}</a></h1>
 {{ x.content }}
