@@ -76,6 +76,7 @@ figure img {
 }
 
 #post {
+  font-size: 14px;
   overflow: hidden;
 }
 
@@ -93,4 +94,17 @@ figure img {
 .pin-description { display:none }
 .pin-tag { display:none }
 
+.markdown-body pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
 
+.markdown-body pre > code {
+  background-color: transparent;
+  border: none;
+}
