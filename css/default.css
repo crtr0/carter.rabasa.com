@@ -104,9 +104,16 @@ figure img {
   border-radius: 3px;
 }
 
-.markdown-body pre > code {
+.markdown-body pre code {
   background-color: transparent;
   border: none;
+}
+
+.markdown-body pre > code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  background: transparent;
 }
 
 .markdown-body code {
