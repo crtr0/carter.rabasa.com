@@ -14,10 +14,10 @@ Using WinJS.xhr in general is quite nice.  It abstracts away all the nonesense o
 	  url: "https://api.twilio.com/2010-04-01/Accounts/" + accountSid + "/SMS/Messages.json"
 	}).then(
 	  function (success) {
-	    console.log(JSON.parse(request.responseText));
+	    console.log(JSON.parse(success.responseText));
 	  },
 	  function (error) {
-	    console.log(JSON.parse(request.responseText));
+	    console.log(JSON.parse(error.responseText));
 	  }
 	);
 
