@@ -1,0 +1,37 @@
+--- 
+wordpress_id: 1306
+layout: post
+title: "iPhone: Day 3"
+date: "2007-07-02T14:01:00+00:00"
+tags: 
+- Uncategorized
+wordpress_slug: iphone-day-3
+wordpress_url: http://cubanlinks.org/2007/07/02/iphone-day-3
+---
+&raquo; Cross-posted from [http://cubanlinks.org/2007/07/02/iphone-day-3](http://cubanlinks.org/2007/07/02/iphone-day-3) &laquo;
+
+<p><img src="http://farm2.static.flickr.com/1170/694949183_6525f3770f_m.jpg" alt="sent from my iPhone"/></p>
+
+
+<p>Today is the third day of using the iPhone, so I thought I&#8217;d share some reflections on the device that may (or may not) be changing people&#8217;s lives.  I should state for the record that I have never owned a &#8220;smart phone&#8221;, and my last phone was a Razr.  So, if I seem too giddy, maybe it&#8217;s because I&#8217;m only just now getting caught up with everyone else.</p>
+
+
+<p><strong>Calls</strong></p>
+
+
+<p>I made several calls, some using the wired headphones/mic and others simply using the phone itself.  From all accounts, the sound quality was great.  I wanted to test the fade in/out of going from music playback to making a call, so I called my girlfriend Carrie.  It worked just as advertised, and she had no idea I was talking on a headset, the sound quality was that good.  We played around with the visual voicemail, too.  Once you have this, you will <strong>truly</strong> wonder how you survived navigating those menu tress.  <em>Press 1 to save, Press 2 to delete, Press 3 to slit your wrists&#8230;</em></p>
+
+
+<p><strong>Wi-Fi vs. Edge</strong></p>
+
+
+<p>The auto-switching to Wi-Fi is crucial, because Edge sucks.  I remember when <span class="caps">GPRS</span> technology came out, and that was 3 jobs and 5 or 6 years ago.  To be fair, sometimes it zips, but other times I just give up and put the phone away.  So, hopping on to hot spots is a life saver.</p>
+
+
+<p><strong>Battery Life</strong></p>
+
+
+<p>Great.  Really, really great.  I put this things through the wringer (calls, web, email) for a couple of days and still only got down to 50% of my battery.  One thing that&#8217;s odd, it didn&#8217;t seem to charge very fast when plugged into my computer.  I wasn&#8217;t even sure it <strong>was</strong> charging, because after 30 minutes the meter hadn&#8217;t seemed to move.  However, the next morning I had a fully charged phone, so I guess it worked after all.</p>
+
+
+<p>Ok, that&#8217;s it for now. <a href="http://widepipe.org/?p=71">Check out Sunil&#8217;s initial impressions</a> at widepipe.org.</p>

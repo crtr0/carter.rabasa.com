@@ -1,0 +1,25 @@
+--- 
+wordpress_id: 1307
+layout: post
+title: "iPhone: Day 6"
+date: "2007-07-05T15:54:00+00:00"
+tags: 
+- Uncategorized
+wordpress_slug: iphone-day-6
+wordpress_url: http://cubanlinks.org/2007/07/05/iphone-day-6
+---
+&raquo; Cross-posted from [http://cubanlinks.org/2007/07/05/iphone-day-6](http://cubanlinks.org/2007/07/05/iphone-day-6) &laquo;
+
+<p>I won&#8217;t pretend to be an unbiased critic of Apple products.  I own a Mac Mini, a MacBook Pro, an iPod and now an iPhone.  I also own Apple stock (now trading at $130, woo hoo!).  However, as much as I love the iPhone, there are some bizarre shortcomings that I&#8217;ve come to notice.</p>
+
+
+<p><strong><span class="caps">RSS</span> Reader</strong></p>
+
+
+<p>For the life of me, I don&#8217;t see why Apple didn&#8217;t bundle an <span class="caps">RSS</span> reader for the iPhone.  <span class="caps">RSS</span>, as a format, is perfect for mobile devices.  The information is organized well (chronologically) and stripped down to just the headlines and posts you want to read.  The amount of data is compact enough that you can usually download all of your favorite feeds and read them off-line (should you be away from a connection).  This is one area where Safari and the .Mac Reader come up short: off-line reading.  Here&#8217;s hoping for a software update sooner rather than later.</p>
+
+
+<p><strong>Mass Text Messaging</strong></p>
+
+
+<p>It&#8217;s embarrassing when my iPhone can&#8217;t do something that my Razr can do easily.  In this case, sending the same text message (SMS) to multiple people.  The UI on the iPhone allows for multiple recipients in their Mail program, but not so in the <span class="caps">SMS</span> program.  It occurs to me that Apple&#8217;s iChat-like interface for <span class="caps">SMS</span> might not be amenable to &#8220;mass chatting&#8221;.  Any other ideas?</p>

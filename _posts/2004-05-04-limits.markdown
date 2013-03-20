@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 305
+layout: post
+title: Limits
+date: "2004-05-04T13:56:22+00:00"
+tags: 
+- Uncategorized
+wordpress_slug: limits
+wordpress_url: http://cubanlinks.org/2006/11/30/limits
+---
+&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/limits](http://cubanlinks.org/2006/11/30/limits) &laquo;
+
+<p>Anyone who even casually browses my sight has noticed a lot of changes.  Worse, they&#8217;ve probably noticed a lot of broken code.  Pages not rendering, error messages, etc.  Other computers are affected too.  Feed readers that can&#8217;t find feeds (rss.do) that were there the day before.  Feeds that are broken (post.xml).  People who click on links to my site from Google (or other search engines) may encounter broken links or empty pages half the time.
+<br/><br/>
+The point being that 1) my methods for coding and testing are not working and 2) better methods were consume time that I don&#8217;t have.  This is annoying.  I like working on the site, but I&#8217;m finding that the code-base has become too complicated for simple acceptance testing (clicking on a few links to see what happens).
+<br/><br/>
+So, I need to try to find a way to easily automate some simple testing.  Both of the underlying code, and of the <span class="caps">JSP</span> pages.  We&#8217;ll see how it goes, and I apologize for any problems y&#8217;all are having.</p>

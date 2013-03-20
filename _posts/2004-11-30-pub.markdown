@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 206
+layout: post
+title: Pub
+date: "2004-11-30T13:49:51+00:00"
+tags: 
+- Uncategorized
+wordpress_slug: pub
+wordpress_url: http://cubanlinks.org/2006/11/30/pub
+---
+&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/pub](http://cubanlinks.org/2006/11/30/pub) &laquo;
+
+<p>Cubanlinks.org gets a mention <a href="http://redherring.com/Article.aspx?a=11000&#38;hed=Tracking+the+net">during a Q&amp;A</a> between <a href="http://redherring.com/">Red Herring</a> and <a href="http://www.sifry.com/alerts/">Dave Sifry</a> (founder of <a href="http://www.technorati.com">Technorati</a>).  My involvment stems from a <a href="/blog/post/2004/08/26/Technora-<del>-Core-Dump.html#permalink&#8221;&gt;few</a> <a href="/blog/post/2004/11/23/Technorati-F-d-Up</del>-again-.html#permalink&#8221;&gt;posts</a> I <a href="/blog/post/2004/11/24/Open-Letter.html#permalink">wrote</a>. </p>
+<p>Of course, RedHerring.com neither links to my site nor to the specific posts or comments in question.  This is disappointing, but I imagine fairly typical of print-to-net mags.</p>

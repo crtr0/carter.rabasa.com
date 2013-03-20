@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 1343
+layout: post
+title: Twitter
+date: "2007-08-25T17:22:00+00:00"
+tags: 
+- Uncategorized
+wordpress_slug: twitter
+wordpress_url: http://cubanlinks.org/2007/08/25/twitter
+---
+&raquo; Cross-posted from [http://cubanlinks.org/2007/08/25/twitter](http://cubanlinks.org/2007/08/25/twitter) &laquo;
+
+<p>I&#8217;m trying out <a href="http://twitter.com/cubanlinks">Twitter</a>, partly based on the enthusiasm that <a href="http://scripting.com">Dave Winer</a> is showing for it.  I haven&#8217;t gotten under the hood yet, but even as purely a micro-blogging platform, I really like it.  When I think of all the &#8220;lost&#8221; posts that I never wrote, due to laziness or being away from my laptop, I think Twitter could really end up filling a gap that I&#8217;ve had in my writing for a long time. The <span class="caps">SMS</span> and gChat interfaces for posting come as close to transferring thought to blog as possible.</p>
+
+
+<p>At some point I may consider moving my Twits from the widget you see to the right into the actually flow of my blog (courtesy of Twitter&#8217;s <span class="caps">API</span>).  That decision will come down the line.</p>

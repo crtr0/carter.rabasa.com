@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 114
+layout: post
+title: RSS
+date: "2004-07-15T18:32:36+00:00"
+tags: 
+- Uncategorized
+wordpress_slug: rss-2
+wordpress_url: http://cubanlinks.org/2006/11/30/rss
+---
+&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/rss](http://cubanlinks.org/2006/11/30/rss) &laquo;
+
+<p>You can&#8217;t stop <a href="http://blogs.law.harvard.edu/tech/rss"><span class="caps">RSS</span></a>, you can only hope to contain it.  The day will come where most hits on the web are for feeds, not pages.  <a href="http://dave.dontpokeme.com/poker/index.php/archives/2004/06/23/rss-madness/">Some people are seeing this now</a>.</p><p><i>Update:</i> <a href="http://dave.dontpokeme.com/poker/">Dave<a/> addressed <a href="http://dave.dontpokeme.com/poker/index.php/archives/2004/04/08/guinness-and-rss/">this issue</a> a while back (with <a href="http://guinnessandpoker.blogspot.com/">Iggy</a> no less!).  Of course, I believe people should post the full content of their posts.  This is both for selfish reasons (I work behind a cruel and vicious firewall, and can only read <span class="caps">RSS</span>) and network-effect reasons.  The network effect being: the more people who can read your content, the more people who will link to your content, and the more people who will happen upon your content, who in turn will link to your content&#8230;ad infinitum.  Maybe Iggy will come around (I hope he does!).</p>

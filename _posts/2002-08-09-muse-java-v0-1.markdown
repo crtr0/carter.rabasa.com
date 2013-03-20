@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 335
+layout: post
+title: Muse.java v0.1
+date: "2002-08-09T18:08:27+00:00"
+tags: 
+- Uncategorized
+wordpress_slug: muse-java-v0-1
+wordpress_url: http://cubanlinks.org/2006/11/30/muse-java-v0-1
+---
+&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/muse-java-v0-1](http://cubanlinks.org/2006/11/30/muse-java-v0-1) &laquo;
+
+<p>I have spent the past couple of weeks working in my spare time on a Java <span class="caps">SDK</span> for the <a href="http://muse.net" title="muse.net">Muse.net</a> service.  I&#8217;ll let the Muse.net site explain what it is that they do.  The short of it is that they offer a web-service that is open to anyone willing to code against it.  My Java <span class="caps">SDK</span> makes it easy for Java/JSP coders to develope Muse clients. <br/><br/>
+So, the guys at Muse have now linked to my <a href="http://muse.cubanlinks.org" title="Muse.Java">Muse.net Java client v0.1</a> from their main page.  I don&#8217;t mind the attention (or help if it comes).  I just hope my webserver doesn&#8217;t crash. :)
+<br/><br/>
+As I have time, I will be posting source code, build scripts, etc.  For now I guess people can use it, find bugs, and yell at me.</p>

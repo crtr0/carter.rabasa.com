@@ -1,0 +1,24 @@
+--- 
+wordpress_id: 2354
+layout: post
+title: FF2Disqus v0.3
+date: "2009-01-10T15:50:26+00:00"
+tags: 
+- Uncategorized
+wordpress_slug: ff2disqus-v03
+wordpress_url: http://cubanlinks.org/blog/?p=2354
+---
+&raquo; Cross-posted from [http://cubanlinks.org/blog/?p=2354](http://cubanlinks.org/blog/?p=2354) &laquo;
+
+<a href="http://cubanlinks.org/blog/wp-content/uploads/2009/01/ff2d3.png"><img class="alignnone size-medium wp-image-2355" title="ff2d3" src="http://cubanlinks.org/blog/wp-content/uploads/2009/01/ff2d3-300x225.png" alt="ff2d3" width="300" height="225" /></a>
+
+Now that v0.3 of FF2Disqus is in private-beta, I thought I'd put up a page to answer basic some questions about the application and record feedback.  Please check-out the example above of how a typical sync works.  If you have any questions or comments, please leave them in the comments.
+
+<strong>Ping Response</strong>
+
+FF2Disqus provides users the ability to ping a URL to initiate a sync.  We automatically run syncs once an hour, but some people aren't that patient. :) The format of the response is <a href="http://www.json.org/">JSON</a>.  The response object has the following attributes:
+<ul>
+<li>success: true or false</li>
+<li>errorCode (optional): is success is false, this provides a short code explanation (invalid-user/time-out/unknown-error)</li>
+<li>message: if success is true this is an array of comments that were synced, else a longer explanation of the error</li>
+</ul>

@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 1068
+layout: post
+title: I'm in Love
+date: "2007-01-09T21:05:00+00:00"
+tags: 
+- Uncategorized
+- apple
+- iphone
+- hardware
+wordpress_slug: i-m-in-love
+wordpress_url: http://cubanlinks.org/2007/01/09/i-m-in-love
+---
+&raquo; Cross-posted from [http://cubanlinks.org/2007/01/09/i-m-in-love](http://cubanlinks.org/2007/01/09/i-m-in-love) &laquo;
+
+<p><img src="http://www.engadget.com/media/2007/01/dsc_0184.jpg" alt="" /></p>
+
+
+<p>Presenting, Apple&#8217;s new <a href="http://www.apple.com/iphone">iPhone</a>. It&#8217;s been a while since I&#8217;ve wanted something as much as I want this.</p>

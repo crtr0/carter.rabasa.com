@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 449
+layout: post
+title: Rebirth
+date: "2005-02-22T18:53:51+00:00"
+tags: 
+- Uncategorized
+wordpress_slug: rebirth
+wordpress_url: http://cubanlinks.org/2006/11/30/rebirth
+---
+&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/rebirth](http://cubanlinks.org/2006/11/30/rebirth) &laquo;
+
+<div class="terminal">crabasa@taurus:~$ uname -a</span><br/>
+Linux taurus 2.4.27-1-386 #1 Fri Sep 3 06:24:46 <span class="caps">UTC 2004</span> i686 <span class="caps">GNU</span>/Linux</div>
+<p>Now that my box (Taurus) was home, I needed to begin the process of backing up its data and re-installing Linux.  My first instinct was to install <a href="http://www.gentoo.org">Gentoo</a>, after hearing so many good things about it.  To this end, I downloaded the i686 <span class="caps">ISO</span> of Gentoo to a CD and booted off of it.  From the prompt, I mounted my partitions (hda1, hda2, hda3) to temporary directories and started to tar/gz my important data.  After the information was bundled, I simply scp&#8217;d the files to my <span class="caps">OSX</span> laptop.</p>
+<p>With my data safely squirreled away, I was ready to wipe Taurus and start anew.  However, about 20 minutes into the Gentoo installation process, I realized that Gentoo wasn&#8217;t going to work for me.  There simply is no single way (or document) to install Gentoo.  This is fine for hyper-geeks who want to tune their kernel, but no good for me.  So, I fell back on the latest testing version of Debian (Sargent) and went to work.</p>
+<p><span class="caps">BAM</span>! 30 minutes later (mostly spent waiting), I had a repartitioned, reformatted machine with a sparkling new Linux distro on it.  A few &#8220;apt-get install&#8221; invokations later and I had
+<a href="http://httpd.apache.org/">Apache</a>, <b>Apache-ssl</b>,
+<a href="http://www.mysql.org">MySQL</a>,
+<a href="http://www.php.net"><span class="caps">PHP</span></a>,
+<a href="http://www.exim.org/">Exim</a> and
+<a href="http://www.gnu.org/software/mailman/">Mailman</a> installed.</p>
+<p>I copied over my Tomcat and Java 1.4 backups, along with the blog.war webapp that powers this site.  I reloaded as much of my data (MySQL tables, mailing lists, etc) that I could.  Once I felt that everything was working, I drove out to Tyson&#8217;s at re-inserted Taurus (along with another rebuilt machine, Rome) into the hosting facility.  I plugged it in, flipped it on, ran some tests, and walked away.  Let&#8217;s hope things stay up (and un-hacked) longer this time.  :)</p>
