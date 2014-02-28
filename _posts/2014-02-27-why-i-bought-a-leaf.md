@@ -55,7 +55,7 @@ Next I turned my attention to the Ford Focus Electric. I'll be honest, I initial
 
 The dealbreakers for me were the lack of a quick charge port and the tiny trunk. I know it's going to be difficult to use an electric car for family trips, but not being able to use quick charge stations and not being able to pack our gear eliminates the possibility altogether. So I had to say goodbye to the Focus Electric.
 
-## Nissan Leaf
+### Nissan Leaf
 
 Which brings us to my new Leaf! In the next blog post, I'll walk through the exact model I purchased and the packages/options that I added. I'll also discuss the pros and cons of the Leaf from my point of view.
 
