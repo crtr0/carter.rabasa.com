@@ -5,6 +5,7 @@ tags: [ev, nissanleaf]
 published: true
 date: 2014-02-27T13:20:0.0
 ---
+*This is Part 2 of my experience buying a Nissan Leaf. Check-out [Part 1][1].*
 
 I started in earnest to research a new car purchase (lease in my case) about 4 weeks ago. The lease on our VW Tiguan (an SUV) was ending this summer and I knew that I had no interest in purchasing the car following the lease. Over the past 2+ years it was clear that we only used our car for:
 
@@ -19,7 +20,7 @@ During the course of my research, I narrowed my options down to 3 cars:
 * Chevy Volt
 * Ford Focus Electric
 
-You might wonder why I didn't list the [Tesla Model S][1]. Well, trust me, I considered it. However, the goal was to purchase a car that was optimized for our daily lives and to save money. The Tesla Model S is just too nice of a car. I would never want to put my kids in it. And it certainly wouldn't help us save money. 
+You might wonder why I didn't list the [Tesla Model S][2]. Well, trust me, I considered it. However, the goal was to purchase a car that was optimized for our daily lives and to save money. The Tesla Model S is just too nice of a car. I would never want to put my kids in it. And it certainly wouldn't help us save money. 
 
 ### Chevy Volt
 
@@ -60,4 +61,5 @@ The dealbreakers for me were the lack of a quick charge port and the tiny trunk.
 Which brings us to my new Leaf! In the next blog post, I'll walk through the exact model I purchased and the packages/options that I added. I'll also discuss the pros and cons of the Leaf from my point of view.
 
 
-[1]:http://www.teslamotors.com/models
+[1]:/2014/02/25/ditching-the-suv-for-a-nissan-leaf/
+[2]:http://www.teslamotors.com/models
