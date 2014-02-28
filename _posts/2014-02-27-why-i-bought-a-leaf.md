@@ -24,6 +24,8 @@ You might wonder why I didn't list the [Tesla Model S][2]. Well, trust me, I con
 
 ### Chevy Volt
 
+<div style="width:600px;height:300px;background-image: url('http://images.thecarconnection.com/lrg/2014-chevrolet-volt-5dr-hb-angular-front-exterior-view_100433516_l.jpg');background-repeat: no-repeat; background-size: contain;"></div>
+
 **Pros**
 
 * Nice styling and performance
