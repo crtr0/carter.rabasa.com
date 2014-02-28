@@ -21,7 +21,7 @@ During the course of my research, I narrowed my options down to 3 cars:
 
 You might wonder why I didn't list the [Tesla Model S][1]. Well, trust me, I considered it. However, the goal was to purchase a car that was optimized for our daily lives and to save money. The Tesla Model S is just too nice of a car. I would never want to put my kids in it. And it certainly wouldn't help us save money. 
 
-## Chevy Volt
+### Chevy Volt
 
 **Pros**
 
@@ -37,7 +37,7 @@ You might wonder why I didn't list the [Tesla Model S][1]. Well, trust me, I con
 
 I was in San Francisco for work recently and an Uber driver picked us up in a Chevy Volt. I was legimitately impressed. I thought the exterior styling was great and it had an interior to match. It felt like the performance was pretty decent too. However after doing some research, this car is a non-starter for a family of 4 due to its cramped interior and trunk. It also doesn't qualify for the Washington State sales tax break, which is brutal when you're comparing costs.
 
-## Ford Focus Electric
+### Ford Focus Electric
 
 **Pros**
 
