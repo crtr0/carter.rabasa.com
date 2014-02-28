@@ -40,7 +40,7 @@ I was in San Francisco for work recently and an Uber driver picked us up in a Ch
 
 ### Ford Focus Electric
 
-<div style="background-image: url('https://dev-chitribgreenguide.s3.amazonaws.com/images/2012/12_Ford_FocusElectric.jpg');background-repeat: no-repeat; background-size: contain;"></div>
+<div style="width:600px;height:400px;background-image: url('https://dev-chitribgreenguide.s3.amazonaws.com/images/2012/12_Ford_FocusElectric.jpg');background-repeat: no-repeat; background-size: contain;"></div>
 
 **Pros**
 
