@@ -19,12 +19,12 @@ I ended up talking with about 4-5 dealers over email. I just counted and the tot
 
 I specifically asked for quotes for a 2-year, 12k miles-per-year lease. EV technology is moving fast, and I didn't want to commit to this car for more than 2 years. Here are some examples of quotes that I got. Some dealers simply refused to disclose things like the money factor over email. Please note that these quotes are for a 2013 Nissan Leaf SV with QC/LED package but *without* the premium package:
 
-| Dealership | Price | Residual	| Money Factor | Drive Away | Payment |
-|------------|-------|----------|--------------|------|---------|
-| Dealer A | $31659 | 51% | 0.001	| $0 | $365 |
-| Dealer B | $31731	| 52% | ? | $0 | $329 |
-| Younkers Nissan | $31567 | 52% | 0.00024 | $150 |	$306 |
-
+<table class="table">
+<tr><th>Dealership</th><th>Price</th><th>Residual</th><th>Money Factor</th><th>Drive Away</th><th>Payment</th></tr>
+<tr><td>Dealer A</td><td>$31659</td><td>51%</td>0.001<td></td><td>$0</td><td>$365</td></tr>
+<tr><td>Dealer B</td><td>$31731</td><td>52%</td><td>?</td><td>$0</td><td>$329</td></tr>
+<tr><td>Younkers Nissan</td><td>$31567</td><td>52%</td><td>.00024</td><td>$150</td><td>$306</td></tr>
+</table>
 
 My correspondence with Younker Nissan (salesperson was Dennis Weymouth) was the best experience I had. He did two things that were different from every other dealer I dealt with:
 
