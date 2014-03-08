@@ -25,6 +25,7 @@ I specifically asked for quotes for a 2-year, 12k miles-per-year lease. EV techn
 | Dealer B | $31731	| 52% | ? | $0 | $329 |
 | Younkers Nissan | $31567 | 52% | 0.00024 | $150 |	$306 |
 
+
 My correspondence with Younker Nissan (salesperson was Dennis Weymouth) was the best experience I had. He did two things that were different from every other dealer I dealt with:
 
 1. He emailed me a super detailed quote that contained all of the key data points
