@@ -34,4 +34,8 @@ I began taking 50mg of Zinc in the morning along with the Tylenol and Celebrex.
 I had a root beer and felt like I could taste perhaps 40% of its flavor. This was exciting!
 
 
+### Day 13
+
+I've stopped taking pain medication (Tylenol) and Celebrex. At this point the only pill I'm taking is 50mg of Zinc.
+
 [1]:https://www.google.com/search?q=Tonsillectomy+taste
