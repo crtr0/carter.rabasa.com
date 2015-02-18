@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+{% if page.moved == true %}
+<p>This post has moved. Click <a href="http://cubanlinks.org{{ page.url }}">here</a> to go there now or you will be redirected in 10 seconds.</p>
+<meta http-equiv="Refresh" content="10;http://cubanlinks.org{{ page.url }}" />
+{% else %}
 <div id="post" class="markdown-body">
 <h1>{{ page.title }}</h1>
 <div class="tags">Tags: {% for tag in page.tags %}{{ tag }} {% endfor %}</div>
@@ -16,3 +20,4 @@ layout: default
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
+{% endif %}
