@@ -10,6 +10,6 @@ meta:
     email: carter@rabasa.com
 
 tag_dir: tag
-pygments: true
+highlighter: true
 markdown: rdiscount
 permalink: pretty
