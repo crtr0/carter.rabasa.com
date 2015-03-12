@@ -66,7 +66,7 @@
       </div>
 
       <footer>
-        <p>&copy; {{ site.meta.author.full_name }} 2010-2012</p>
+        <p>&copy; {{ site.meta.author.full_name }} 2010-{{'now' | date: "%Y" }}</p>
       </footer>
     </div> <!-- /container -->
 
@@ -84,6 +84,7 @@
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>        
         <script src="//cdn.lanyrd.net/badges/person-v1.min.js"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.1/js/bootstrap.min.js"></script>
+        
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
       </section>
 

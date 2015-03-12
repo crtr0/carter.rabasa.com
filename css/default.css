@@ -28,6 +28,11 @@ figure img {
     /*display: table-row;*/
 }
 
+blockquote {
+  font-size: 14px;
+  color:#666;
+}
+
 .container > footer p {
   text-align: center; /* center align it with the container */
 }
