@@ -1,0 +1,2 @@
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Kicking off a thread to document me and <a href="https://twitter.com/carrie_k">@carrie_k</a> spending the next 3 weeks road tripping with the kids. You&#39;ve been warned 😛</p>&mdash; Carter Rabasa (@crtr0) <a href="https://twitter.com/crtr0/status/880869367201673216">June 30, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
