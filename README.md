@@ -1,5 +1,3 @@
-# Carter Rabasa's Homepage
+# The Website for Carter Rabasa
 
-[carter.rabasa.com](http://carter.rabasa.com)
-
-Powered by Github Pages and Jekyll.
+Currently powered by [Astro](https://astro.build/).
