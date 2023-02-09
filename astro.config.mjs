@@ -3,12 +3,12 @@ import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
-import netlify from "@astrojs/netlify/functions";
+//import netlify from "@astrojs/netlify/edge-functions";
 
 // https://astro.build/config
 export default defineConfig({
   site: "https://carter.rabasa.com",
   integrations: [mdx(), sitemap()],
-  output: "server",
-  adapter: netlify(),
+  //output: "server",
+  //adapter: netlify(),
 });
